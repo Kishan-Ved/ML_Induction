@@ -13,3 +13,4 @@ Word file
 ## Q4
 
 Generative Adversarial Networks: Google colab link: https://colab.research.google.com/drive/15UF1-6dX4oZ8vvt-aThuftO8wlKOU41f?usp=sharing
+Venilla Autoencoder: Google colab link: https://colab.research.google.com/drive/1vfQsx8ZtdWHTGgy0GqshpNlIXXvujsfR?usp=sharing
