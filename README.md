@@ -7,4 +7,5 @@ Google colab link: https://colab.research.google.com/drive/15UF1-6dX4oZ8vvt-aThu
 ## Q2
 Word file
 
-
+## Q3
+2) Google colab link: https://colab.research.google.com/drive/1VK-j4FkXhbEUa_uNEHjs7MZbr_xOvhQ0?usp=sharing
